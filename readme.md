@@ -45,3 +45,6 @@
 [See our guide to Zoom recording here](http://leadr.msu.edu/resources/recording-calls-using-zoom/)
 
 Any other questions - email blocke@msu.edu or stop into LEADR in 112 Old Horticulture Mon-Thu 10a-8p Fri 10a-1p
+
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)

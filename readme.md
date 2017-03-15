@@ -1,6 +1,6 @@
-#MLK Jr Elementary v Ann Arbor School District
+# MLK Jr Elementary v Ann Arbor School District
 
-##[TimelineJS](https://timeline.knightlab.com/)
+## [TimelineJS](https://timeline.knightlab.com/)
 * Great for telling linear, chronological stories
 * Google Account is needed (MSU email may not work)
 * You can watch this [quick video tutorial](https://www.youtube.com/watch?v=ZUVUjt7jd1c)
@@ -9,7 +9,7 @@
 * Can upload images, link to images anywhere, video from Youtube and Vimeo, Google Maps, and social media. [They don't supply a list, but it's probably the same as TimelineJS](https://timeline.knightlab.com/docs/media-types.html).
 * If you want to embed a TimeLine into Wordpress, grab the embed code at the bottom of the page (after following all other instructions) and paste into the **text** tab of the Wordpress editor, not the **visual** tab.
 
-###Common TimelineJS problems
+### Common TimelineJS problems
 * Timeline not appearing or some events are skipped
   * The spreadsheet is not **published** [see bottom of TimelineJS site for instructions](https://timeline.knightlab.com/)
   * Spreadsheet headers have been changed
@@ -19,7 +19,7 @@
   * For images, make sure the link is to the image (the URL ends in a filename like *.jpg*)
   * The video host you're using is not supported (you'll need to use another host)
 
-##Wordpress Fundamentals
+## Wordpress Fundamentals
 * To log in, go to *yoururl.leadr.msu.edu/admin*
 * Set up a static home page
 * Make sure you're creating pages, not posts
@@ -33,7 +33,7 @@
 * There's a [tutorial on the Divi theme here](https://www.elegantthemes.com/gallery/divi/documentation/)
 * If there are other themes or plugins you need, contact Brandon (blocke@msu.edu) to have it added.
 
-##[StoryMapJS](https://storymap.knightlab.com/)
+## [StoryMapJS](https://storymap.knightlab.com/)
 * Great for telling linear, spatial stories
 * Google Account is needed (MSU email may not work)
 * You may also do *Gigapixel*, which annotates an image (including historical maps)
@@ -47,4 +47,4 @@
 Any other questions - email blocke@msu.edu or stop into LEADR in 112 Old Horticulture Mon-Thu 10a-8p Fri 10a-1p
 
 -----
-###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)

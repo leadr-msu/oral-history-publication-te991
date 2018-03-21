@@ -47,4 +47,4 @@
 Any other questions - email blocke@msu.edu or stop into LEADR in 112 Old Horticulture Mon-Thu 10a-8p Fri 10a-1p
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
